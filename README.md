@@ -14,5 +14,8 @@
   cd XSStrike
   pip3 install -r requirements.txt
   sudo chmod +x xsstrike.py
+  cd
+  sudo ln -sf /opt/xss/XSStrike/xsstrike.py /usr/local/bin/xsstrike
+  xsstrike -h
   ```
 </details>
