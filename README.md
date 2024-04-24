@@ -18,4 +18,13 @@
   sudo ln -sf /opt/xss/XSStrike/xsstrike.py /usr/local/bin/xsstrike
   xsstrike -h
   ```
+
+  ### Updation
+  
+  ```
+  cd /opt/xss/XSStrike/
+  sudo git pull
+  cd
+  ```
+
 </details>
