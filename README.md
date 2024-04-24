@@ -11,5 +11,8 @@
   sudo mkdir -p /opt/xss
   cd /opt/xss/
   sudo git clone https://github.com/s0md3v/XSStrike.git
+  cd XSStrike
+  pip3 install -r requirements.txt
+  sudo chmod +x xsstrike.py
   ```
 </details>
