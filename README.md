@@ -2,7 +2,9 @@
 <details><summary>Recon</summary></details>
 <details>
   <summary>XSS Tools</summary>
+  
   # XSStrike
+  
   ### Installations
   
   ```
