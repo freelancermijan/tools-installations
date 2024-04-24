@@ -1,2 +1,2 @@
 # tools-installations
-<details>Recon</details>
+<details><summary>Recon</summary></details>
